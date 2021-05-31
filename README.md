@@ -1,6 +1,6 @@
-### Hi there, Im kinda indie game developer that tries to understand how gamedev works👋
+# Hi there, Im kinda indie game developer that tries to understand how gamedev works👋
 ## I'm developing on Unity Game Engine
-# I'm learning don't judge
+### I'm learning don't judge
 🔭 I’m currently working on game which codeword is NinjaGod. This game is inpired by naruto, demon slayer and others Seinen animes. 
 <!--
 **sparkcolazet/sparkcolazet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
