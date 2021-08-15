@@ -2,7 +2,7 @@
 ## Разрабатываю на Unity, но как следстивие чуть шарю в Unreal Engine и других👾
 ### 🔭 Сейчас работаю над проектом с предварительным название NinjaGod. Он воодушевлен аниме - "Наруто", "Клинок, рассекающий демонов" ну и подобные. Молнии, Огонь, глаза, кунаи, крч шик проект
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thecopyninjadev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thecopyninjadev&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ⚡ Забавный факт: вообще не умею рисовать или хоть чуть чуть в дизайн поэтому я больше прогер во всем этом приколе геймдевелопинга
