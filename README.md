@@ -3,10 +3,7 @@
     <img src="https://img.icons8.com/material/50/7EA5CE/vk-circled.png"/></a>
   
   <a href="https://t.me/sparkcola_zet/">
-    <img src="https://img.icons8.com/material/50/7EA5CE/telegram-app.png"/></a>
-  
-  <a href="mailto:thecopyninjadev@gmail.com">
-    <img src="https://img.icons8.com/material/50/7EA5CE/mail.png"/></a>
+    <img src="https://img.icons8.com/color/48/000000/telegram-app--v4.png"/></a>
 </p>
 
 # Здаров👋, Я инди геймдевелопер. Учусь и стараюсь понять как работают системы и мехнаники в AAA проектов и воспроизвести их в своих проектах(поэтому собственно TheCopyNinja⚡)))
