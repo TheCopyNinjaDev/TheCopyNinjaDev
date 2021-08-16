@@ -9,8 +9,6 @@ enemies and make epic frag movies. It's inspired by animes like Naruto and Demon
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thecopyninjadev&repo=NinjaGod&theme=tokyonight)](https://github.com/TheCopyNinjaDev/NinjaGod)
 
- <br>
-
 ⚡<b>SamuraiDefense2D</b>:  <div align="right">
 <img hight="100" width="300" alt="GIF" align="right" src="https://github.com/TheCopyNinjaDev/TheCopyNinjaDev/blob/master/unnamed.gif">
 </div>
