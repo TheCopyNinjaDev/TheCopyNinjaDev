@@ -3,7 +3,7 @@
 ⚡<b>NinjaGod</b>: This game is about miracle powers and elemental control. It's supposed to be a 3D game where you can make whatever you want with your enemies and make epic frag movies. It's inspired by animes like Naruto and Demon Slayer. <br>
 ⚡<b>SamuraiDefense2D</b>: This game is about samurai that defends his sensei. It's supposed to be a 2D timekiller where you use simple mechanics: some enemies can defend your attacks from above and others from the bottom. Also, you'll be able to use some cool abilities and skills to slayer your enemies a bit faster. <br>
 
-<h1>Technologies I use</h1>:
+<h2>Technologies I use:</h2>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thecopyninjadev&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thecopyninjadev&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
