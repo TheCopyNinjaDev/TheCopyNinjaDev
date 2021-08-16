@@ -6,7 +6,14 @@ enemies and make epic frag movies. It's inspired by animes like Naruto and Demon
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thecopyninjadev&repo=NinjaGod&theme=tokyonight)](https://github.com/TheCopyNinjaDev/NinjaGod) <br>
 
 
-⚡<b>SamuraiDefense2D</b>: This game is about samurai that defends his sensei. It's supposed to be a 2D timekiller where you use simple mechanics: some enemies can defend your attacks from above and others from the bottom. Also, you'll be able to use some cool abilities and skills to slayer your enemies a bit faster. <br>
+⚡<b>SamuraiDefense2D</b>: This game is about samurai that defends his sensei. It's supposed to be a 2D timekiller where you use simple mechanics: some enemies can defend your attacks from above and others from the bottom. Also, you'll be able to use some cool abilities and skills to slayer your enemies a bit faster. 
+
+<div align="right">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+</div>
+
+
+<br>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thecopyninjadev&repo=SamuraiDefense2D&theme=tokyonight)](https://github.com/TheCopyNinjaDev/SamuraiDefense2D)
 
 <h2>Technologies I use:</h2>
