@@ -7,7 +7,7 @@ This game is about miracle powers and elemental control.<br>
 It's supposed to be a 3D game where you can make whatever you want with your<br>
 enemies and make epic frag movies. It's inspired by animes like Naruto and Demon Slayer. 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thecopyninjadev&repo=NinjaGod&theme=tokyonight)](https://github.com/TheCopyNinjaDev/NinjaGod)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thecopyninjadev&repo=NinjaGod&theme=tokyonight&show_owner=true)](https://github.com/TheCopyNinjaDev/NinjaGod)
 
 ⚡<b>SamuraiDefense2D</b>:  <div align="right">
 <img hight="100" width="300" alt="GIF" align="right" src="https://github.com/TheCopyNinjaDev/TheCopyNinjaDev/blob/master/unnamed.gif">
