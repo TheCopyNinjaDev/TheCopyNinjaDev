@@ -1,9 +1,24 @@
 # Hi, there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 ## My name is Igor Khaustov, and I'm an indie game developer from Russia. Currently, I'm studying Computer Science at Voronezh State University and coworking at two of my main projects. 
-⚡<b>NinjaGod</b>: This game is about miracle powers and elemental control. It's supposed to be a 3D game where you can make whatever you want with your enemies and make epic frag movies. It's inspired by animes like Naruto and Demon Slayer. [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thecopyninjadev&repo=NinjaGod&theme=tokyonight)](https://github.com/TheCopyNinjaDev/NinjaGod) <br>
+⚡<b>NinjaGod</b>: <div align="right">
+<img hight="200" width="200" alt="GIF" align="right" src="https://github.com/TheCopyNinjaDev/TheCopyNinjaDev/blob/TheCopyNinjaDev-patch-1/steamuserimages-a.akamaihd.gif">
+</div>
+This game is about miracle powers and elemental control.<br>
+It's supposed to be a 3D game where you can make whatever you want with your<br>
+enemies and make epic frag movies. It's inspired by animes like Naruto and Demon Slayer. 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thecopyninjadev&repo=NinjaGod&theme=tokyonight)](https://github.com/TheCopyNinjaDev/NinjaGod) <br>
 
 
-⚡<b>SamuraiDefense2D</b>: This game is about samurai that defends his sensei. It's supposed to be a 2D timekiller where you use simple mechanics: some enemies can defend your attacks from above and others from the bottom. Also, you'll be able to use some cool abilities and skills to slayer your enemies a bit faster. <br>
+⚡<b>SamuraiDefense2D</b>:  <div align="right">
+<img hight="100" width="300" alt="GIF" align="right" src="https://github.com/TheCopyNinjaDev/TheCopyNinjaDev/blob/TheCopyNinjaDev-patch-1/unnamed.gif">
+</div>
+This game is about samurai that defends his sensei. <br>
+It's supposed to be a 2D timekiller where you use simple mechanics: some enemies <br>
+can defend your attacks from above and others from the bottom. Also, you'll be <br>
+able to use some cool abilities and skills to slayer your enemies a bit faster. 
+<br>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thecopyninjadev&repo=SamuraiDefense2D&theme=tokyonight)](https://github.com/TheCopyNinjaDev/SamuraiDefense2D)
 
 <h2>Technologies I use:</h2>
