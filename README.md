@@ -3,7 +3,6 @@
 ⚡<b>NinjaGod</b>: <div align="right">
 <img hight="200" width="200" alt="GIF" align="right" src="https://github.com/TheCopyNinjaDev/TheCopyNinjaDev/blob/TheCopyNinjaDev-patch-1/steamuserimages-a.akamaihd.gif">
 </div>
-<br>
 This game is about miracle powers and elemental control.<br>
 It's supposed to be a 3D game where you can make whatever you want with your<br>
 enemies and make epic frag movies. It's inspired by animes like Naruto and Demon Slayer. 
