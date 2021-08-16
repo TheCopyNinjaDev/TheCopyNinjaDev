@@ -4,7 +4,13 @@
 ⚡<b>SamuraiDefense2D</b>: This game is about samurai that defends his sensei. It's supposed to be a 2D timekiller where you use simple mechanics: some enemies can defend your attacks from above and others from the bottom. Also, you'll be able to use some cool abilities and skills to slayer your enemies a bit faster. <br>
 
 <h2>Technologies I use:</h2>
-
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thecopyninjadev&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thecopyninjadev&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
