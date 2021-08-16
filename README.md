@@ -13,6 +13,7 @@ It's supposed to be a 2D timekiller where you use simple mechanics: some enemies
 can defend your attacks from above and others from the bottom. Also, you'll be <br>
 able to use some cool abilities and skills to slayer your enemies a bit faster. 
 <br>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thecopyninjadev&repo=SamuraiDefense2D&theme=tokyonight)](https://github.com/TheCopyNinjaDev/SamuraiDefense2D)
 
 <h2>Technologies I use:</h2>
