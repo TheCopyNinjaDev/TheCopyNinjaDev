@@ -6,6 +6,7 @@
 <br>
 It's supposed to be a 3D game where you can make whatever you want with your<br>
 enemies and make epic frag movies. It's inspired by animes like Naruto and Demon Slayer. 
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thecopyninjadev&repo=NinjaGod&theme=tokyonight)](https://github.com/TheCopyNinjaDev/NinjaGod) <br>
 
 
