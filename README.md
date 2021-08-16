@@ -4,6 +4,7 @@
 ⚡<b>SamuraiDefense2D</b>: This game is about samurai that defends his sensei. It's supposed to be a 2D timekiller where you use simple mechanics: some enemies can defend your attacks from above and others from the bottom. Also, you'll be able to use some cool abilities and skills to slayer your enemies a bit faster. <br>
 
 <h2>Technologies I use:</h2>
+
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
