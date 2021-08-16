@@ -1,12 +1,10 @@
-# Здаров👋, Я инди геймдевелопер. Учусь и стараюсь понять как работают системы и мехнаники в AAA проектов и воспроизвести их в своих проектах(поэтому собственно TheCopyNinja⚡)))
-## Разрабатываю на Unity, но как следстивие чуть шарю в Unreal Engine и других👾
-### 🔭 Сейчас работаю над проектом с предварительным название NinjaGod. Он воодушевлен аниме - "Наруто", "Клинок, рассекающий демонов" ну и подобные. Молнии, Огонь, глаза, кунаи, крч шик проект
-
+# Здаров👋, 
+## My name is Igor Khaustov, and I'm an indie game developer from Russia. Currently, I'm studying Computer Science at Voronezh State University and coworking at two of my main ##projects. 
+⚡<b>NinjaGod</b>: This game is about miracle powers and elemental control. It's supposed to be a 3D game where you can make whatever you want with your enemies and make epic frag movies. It's inspired by animes like Naruto and Demon Slayer
+⚡<b>SamuraiDefense2D</b>: This game is about samurai that defends his sensei. It's supposed to be a 2D timekiller where you use simple mechanics: some enemies can defend your attacks from above and others from the bottom. Also, you'll be able to use some cool abilities and skills to slayer your enemies a bit faster.
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thecopyninjadev&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thecopyninjadev&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-⚡ Забавный факт: вообще не умею рисовать или хоть чуть чуть в дизайн поэтому я больше прогер во всем этом приколе геймдевелопинга
 <p align="center">
   <a href="https://vk.com/sparkcolazet">
     <img src="https://img.icons8.com/color/48/000000/vk-circled.png"/></a>
