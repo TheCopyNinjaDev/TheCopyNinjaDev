@@ -1,8 +1,9 @@
 # Hi, there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 ## My name is Igor Khaustov, and I'm an indie game developer from Russia. Currently, I'm studying Computer Science at Voronezh State University and coworking at two of my main projects. 
 ⚡<b>NinjaGod</b>: This game is about miracle powers and elemental control.<div align="right">
-<img hight="100" width="300" alt="GIF" align="right" src="https://github.com/TheCopyNinjaDev/TheCopyNinjaDev/blob/TheCopyNinjaDev-patch-1/steamuserimages-a.akamaihd.gif">
+<img hight="200" width="200" alt="GIF" align="right" src="https://github.com/TheCopyNinjaDev/TheCopyNinjaDev/blob/TheCopyNinjaDev-patch-1/steamuserimages-a.akamaihd.gif">
 </div>
+<br>
 It's supposed to be a 3D game where you can make whatever you want with your<br>
 enemies and make epic frag movies. It's inspired by animes like Naruto and Demon Slayer. 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=thecopyninjadev&repo=NinjaGod&theme=tokyonight)](https://github.com/TheCopyNinjaDev/NinjaGod) <br>
