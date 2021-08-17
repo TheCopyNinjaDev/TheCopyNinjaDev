@@ -45,7 +45,9 @@ able to use some cool abilities and skills to slayer your enemies a bit faster.
   <a href="https://t.me/sparkcola_zet/">
     <img src="https://img.icons8.com/color/48/000000/telegram-app--v4.png"/></a>
 </p>
+<div align="center">
 📫 My mail: thecopyninjadev@gmail.com
+</div>
 <!--
 **sparkcolazet/sparkcolazet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
