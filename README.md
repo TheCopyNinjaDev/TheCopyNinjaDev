@@ -36,7 +36,7 @@ able to use some cool abilities and skills to slayer your enemies a bit faster.
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thecopyninjadev&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thecopyninjadev&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thecopyninjadev&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thecopyninjadev&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p align="center">
